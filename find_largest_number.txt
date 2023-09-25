@@ -1,0 +1,9 @@
+def largest():
+	a=int(input("Enter first number="))
+	b=int(input("Enter second number="))
+	if a>b :
+    	print ("Largest value=%d"%a)
+	else:
+    	print ("Largest value=%d"%b)
+	return
+largest()
